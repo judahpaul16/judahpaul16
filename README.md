@@ -10,7 +10,7 @@
 <a href="https://judahpaul.com/resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="https://www.linkedin.com/in/gkos/">
+<a href="http://www.linkedin.com/in/judahpaul">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:me@judahpaul.com">
