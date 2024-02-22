@@ -29,9 +29,11 @@
 
 </p>
 
-* 📖 Pursuing BS in Computer Science @ [Georgia State University](https://csds.gsu.edu/). 
+* 📖 BS in Computer Science @ [Georgia State University](https://csds.gsu.edu/). 
 
-* 💻 Currently building games and apps and pursuing enlightenment.
+* 💻 Currently building apps and pursuing enlightenment through philosophy.
+  
+* 💸 Help my uncle get stem cell therapy @ [GoFundMe](https://gofund.me/11f7b7fd).
 
 
 <table>
