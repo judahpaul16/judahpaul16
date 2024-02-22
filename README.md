@@ -37,24 +37,27 @@
 
 
 <table>
-<tr><th>Open Source Projects</th><th>Closed Source Projects</th></tr>
+<tr><th>Open Source Projects</th></tr>
 <tr><td>
 
 | Project Name           | Stars | Technologies |
 |------------------------|-------|--------------|
 | [COVID Tracking](https://github.com/judahpaul16/covid-tracking) | ![Stars](https://img.shields.io/github/stars/judahpaul16/covid-tracking?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Tkinter](https://img.shields.io/badge/Tkinter-black?style=flat-square&logo=python) |
-| [Hackermans](https://github.com/judahpaul16/hackermans) | ![Stars](https://img.shields.io/github/stars/judahpaul16/hackermans?style=flat-square&labelColor=black) | ![Phaser](https://img.shields.io/badge/Phaser-black?style=flat-square&logo=phaser) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
-| [GPT Home](https://github.com/judahpaul16/gpt-home) | ![Stars](https://img.shields.io/github/stars/judahpaul16/gpt-home?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-black?style=flat-square&logo=raspberrypi) |
-| [Employee Time Clock](https://github.com/judahpaul16/employee-time-clock) | ![Stars](https://img.shields.io/github/stars/judahpaul16/employee-time-clock?style=flat-square&labelColor=black) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
+| [Hackermans](https://github.com/judahpaul16/hackermans) | ![Stars](https://img.shields.io/github/stars/judahpaul16/hackermans?style=flat-square&labelColor=black) | ![PhaserJS](https://img.shields.io/badge/PhaserJS-black?style=flat-square&logo=phaserdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
+| [GPT Home](https://github.com/judahpaul16/gpt-home) | ![Stars](https://img.shields.io/github/stars/judahpaul16/gpt-home?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-black?style=flat-square&logo=raspberrypi) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
+| [Employee Time Clock](https://github.com/judahpaul16/employee-time-clock) | ![Stars](https://img.shields.io/github/stars/judahpaul16/employee-time-clock?style=flat-square&labelColor=black) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 | [VROOM](https://github.com/GSU-Web-Programming-2023/vroom) | ![Stars](https://img.shields.io/github/stars/GSU-Web-Programming-2023/vroom?style=flat-square&labelColor=black) | ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) |
 | [Python-Voipms](https://github.com/4doom4/python-voipms/pull/12) | ![Contribution](https://img.shields.io/badge/Contribution-black?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
-| [Karnaugh Map Generator](https://github.com/judahpaul16/kmaps/) | ![Stars](https://img.shields.io/github/stars/judahpaul16/kmaps?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+| [Karnaugh Map Generator](https://github.com/judahpaul16/kmaps/) | ![Stars](https://img.shields.io/github/stars/judahpaul16/kmaps?style=flat-square&labelColor=black) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 
-</td><td>
+</td></tr>
+<tr><th>Closed Source Projects</th></tr>
+<tr><td>
 
 | Project Name       | Technologies |
 |--------------------|--------------|
 | FluidVoIP.com      | ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![NGINX](https://img.shields.io/badge/NGINX-black?style=flat-square&logo=nginx) ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql) ![Gunicorn](https://img.shields.io/badge/Gunicorn-black?style=flat-square&logo=gunicorn) |
 | Atlexecpm.com      | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
+| JudahPaul.com      | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=nextdotjs) ![PhaserJS](https://img.shields.io/badge/PhaserJS-black?style=flat-square&logo=phaserdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 
 </td></tr> </table>
