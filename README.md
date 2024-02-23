@@ -63,6 +63,6 @@
 
 </td><td>
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=judahpaul16&theme=blue-green&hide=jupyter%20notebook)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=judahpaul16&theme=blue-green&hide=jupyter%20notebook&layout=compact)
 
 </td></tr></table>
