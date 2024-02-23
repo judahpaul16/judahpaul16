@@ -26,7 +26,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=judahpaul16&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a>
 
-
 </p>
 
 * 📖 BS in Computer Science @ [Georgia State University](https://csds.gsu.edu/). 
@@ -36,7 +35,7 @@
 * 💸 Help my uncle get stem cell therapy @ [GoFundMe](https://gofund.me/11f7b7fd).
 
 
-<table>
+<table align="center">
 <tr><th>Open Source Projects</th></tr>
 <tr><td>
 
@@ -50,8 +49,10 @@
 | [Python-Voipms](https://github.com/4doom4/python-voipms/pull/12) | ![Contribution](https://img.shields.io/badge/Contribution-black?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
 | [Karnaugh Map Generator](https://github.com/judahpaul16/kmaps/) | ![Stars](https://img.shields.io/github/stars/judahpaul16/kmaps?style=flat-square&labelColor=black) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 
-</td></tr>
-<tr><th>Closed Source Projects</th></tr>
+</td></tr></table>
+
+<table align="center">
+<tr><th>Closed Source Projects</th><th>Other Stats</th></tr>
 <tr><td>
 
 | Project Name       | Technologies |
@@ -60,4 +61,8 @@
 | Atlexecpm.com      | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 | JudahPaul.com      | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=nextdotjs) ![PhaserJS](https://img.shields.io/badge/PhaserJS-black?style=flat-square&logo=phaserdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 
-</td></tr> </table>
+</td><td>
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=judahpaul16&theme=blue-green&hide=jupyter%20notebook)
+
+</td></tr></table>
