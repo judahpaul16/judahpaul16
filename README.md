@@ -60,7 +60,7 @@
 |--------------------|--------------|
 | [FluidVoIP.com](https://fluidvoip.com/)      | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![Gunicorn](https://img.shields.io/badge/Gunicorn-black?style=flat-square&logo=gunicorn) ![NGINX](https://img.shields.io/badge/NGINX-black?style=flat-square&logo=nginx) ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql) |
 | [Atlexecpm.com](https://atlexecpm.com/)      | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
-| [JudahPaul.com](https://judahpaul.com/)      | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=nextdotjs) ![PhaserJS](https://img.shields.io/badge/PhaserJS-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
+| [JudahPaul.com](https://judahpaul.com/)      | ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![PhaserJS](https://img.shields.io/badge/PhaserJS-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 
 </td><td>
 
