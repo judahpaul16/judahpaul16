@@ -62,7 +62,7 @@
 
 | Project Name       | Technologies |
 |--------------------|--------------|
-| [FluidVoIP.com](https://fluidvoip.com/)      | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![Gunicorn](https://img.shields.io/badge/Gunicorn-black?style=flat-square&logo=gunicorn) ![NGINX](https://img.shields.io/badge/NGINX-black?style=flat-square&logo=nginx) ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql) |
+| [FluidVoIP.com](https://fluidvoip.com/)      | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![Gunicorn](https://img.shields.io/badge/Gunicorn-black?style=flat-square&logo=gunicorn) ![NGINX](https://img.shields.io/badge/NGINX-black?style=flat-square&logo=nginx) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) |
 | [Atlexecpm.com](https://atlexecpm.com/)      | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 | [JudahPaul.com](https://judahpaul.com/)      | ![PhaserJS](https://img.shields.io/badge/PhaserJS-black?style=flat-square&logo=javascript) ![Node.JS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=nodedotjs) ![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=webpack) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 
