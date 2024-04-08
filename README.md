@@ -53,7 +53,6 @@
 | [Karnaugh Map Generator](https://github.com/judahpaul16/kmaps/) | ![Stars](https://img.shields.io/github/stars/judahpaul16/kmaps?style=flat-square&labelColor=black) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 | [QuickCards](https://github.com/mad-project-quick-cards/quickcards) | ![Stars](https://img.shields.io/github/stars/mad-project-quick-cards/quickcards?style=flat-square&labelColor=black) | ![Dart](https://img.shields.io/badge/Dart-black?style=flat-square&logo=dart) ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter) |
 | [Dirconfig](https://github.com/judahpaul16/dirconfig) <a href="https://pypi.org/project/dirconfig/"><img src="https://img.shields.io/badge/PyPi-gray?style=flat-round&logo=pypi&logoColor=white"></a> | ![Stars](https://img.shields.io/github/stars/judahpaul16/dirconfig?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
-| [AutoChangeLog](https://github.com/judahpaul16/autochangelog) | ![Stars](https://img.shields.io/github/stars/judahpaul16/autochangelog?style=flat-square&labelColor=black) | ![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=go) |
 
 </td></tr></table>
 
