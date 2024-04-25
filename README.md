@@ -25,9 +25,12 @@
 <!-- <a href="https://github.com/judahpaul16">
     <img src="https://github-readme-stats.vercel.app/api?username=judahpaul16&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> -->
-<a href="https://github.com/judahpaul16">
-    <img src="https://github-stats-alpha.vercel.app/api?username=judahpaul16&cc=2d333b&tc=37BCF6&ic=fff&bc=0000">
-</a>
+<p align="center">
+    <a href="https://github.com/judahpaul16">
+        <img src="https://github-stats-alpha.vercel.app/api?username=judahpaul16&cc=2d333b&tc=37BCF6&ic=fff&bc=0000" alt="Judah Paul's GitHub Stats">
+    </a>
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judahpaul16&theme=transparent&hide=jupyter%20notebook,cmake,c%2b%2b&border_color=2d333b&layout=donut" alt="Top Languages">
+</p
 
 </p>
 
@@ -58,17 +61,18 @@
 </td></tr></table>
 
 <table align="center">
-<tr><th>Closed Source Projects</th><th>Other Stats</th></tr>
-<tr><td>
-
+<tr><th>Closed Source Projects</th></tr>
+<tr>
+    
+<td>
+    
 | Project Name       | Technologies |
 |--------------------|--------------|
-| [FluidVoIP.com](https://fluidvoip.com/)      | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![HTMX](https://img.shields.io/badge/HTMX-black?style=flat-square&logo=htmx) ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) |
+| [FluidVoIP.com](https://fluidvoip.com/)      | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![HTMX](https://img.shields.io/badge/HTMX-black?style=flat-square&logo=htmx) ![jQuery](https://img.shields.io/badge/jQuery-black?style=flat-square&logo=jquery) ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap) ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) |
 | [Atlexecpm.com](https://atlexecpm.com/)      | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 | [JudahPaul.com](https://judahpaul.com/)      | ![PhaserJS](https://img.shields.io/badge/PhaserJS-black?style=flat-square&logo=javascript) ![Node.JS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=nodedotjs) ![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=webpack) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 
-</td><td>
+</td>
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=judahpaul16&theme=blue-green&hide=jupyter%20notebook,cmake,c%2b%2b&layout=compact)
-
-</td></tr></table>
+</tr>
+</table>
