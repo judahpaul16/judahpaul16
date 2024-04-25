@@ -42,7 +42,7 @@
 
 
 <table align="center">
-<tr><th>Open Source Projects</th></tr>
+<tr><th>Open Source Projects & Contributions</th></tr>
 <tr><td>
 
 | Project Name           | Stars | Technologies |
