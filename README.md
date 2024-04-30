@@ -36,9 +36,9 @@
 
 * 📖 BS in Computer Science @ [Georgia State University](https://csds.gsu.edu/). 
 
-* 💻 Currently building apps and pursuing enlightenment through philosophy.
+* 🚀 Currently building apps and pursuing enlightenment through philosophy.
   
-* 💸 Help my uncle get stem cell therapy @ [GoFundMe](https://gofund.me/11f7b7fd).
+* <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/>&nbsp; Please consider supporting my uncle's stem cell therapy by donating to his [GoFundMe](https://gofund.me/11f7b7fd) campaign.
 
 
 <table align="center">
