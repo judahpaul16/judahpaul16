@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/judahpaul16">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Judah+Paul;Computer Scientist+%7C+Philosopher+%7C+Software+Engineer;More%20%40%20judahpaul.com" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Judah+Paul;Computer Scientist+%7C+Philosopher+%7C+Open+Sourcerer;More%20%40%20judahpaul.com" alt="Typing SVG" />
 </a>
 <br/>
 
