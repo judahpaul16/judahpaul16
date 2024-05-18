@@ -19,6 +19,9 @@
 <a href="https://pypi.org/user/judahpaul16/">
     <img src="https://img.shields.io/badge/PyPi-judahpaul16-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
+<a href="https://hub.docker.com/u/judahpaul">
+    <img src="https://img.shields.io/badge/DockerHub-judahpaul-blue?style=flat-square&logo=docker&logoColor=white">
+</a>
 
 <br/> 
 
