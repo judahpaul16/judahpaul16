@@ -31,7 +31,6 @@
     </a>
     <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judahpaul16&theme=transparent&hide=dart,jupyter%20notebook,cmake,css,c%2b%2b&border_color=2d333b&layout=donut" alt="Top Languages">
 </p>
-
 </p>
 
 * 📖 BS in Computer Science @ [Georgia State University](https://csds.gsu.edu/). 
