@@ -29,7 +29,7 @@
     <a href="https://github.com/judahpaul16">
         <img src="https://github-stats-alpha.vercel.app/api?username=judahpaul16&cc=2d333b&tc=37BCF6&ic=fff&bc=0000" alt="Judah Paul's GitHub Stats">
     </a>
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judahpaul16&theme=transparent&hide=jupyter%20notebook,cmake,css,c%2b%2b&border_color=2d333b&layout=donut" alt="Top Languages">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judahpaul16&theme=transparent&hide=dart,jupyter%20notebook,cmake,css,c%2b%2b&border_color=2d333b&layout=donut" alt="Top Languages">
 </p
 
 </p>
