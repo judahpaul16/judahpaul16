@@ -25,13 +25,22 @@
 
 <!-- <a href="https://github.com/judahpaul16">
     <img src="https://github-readme-stats.vercel.app/api?username=judahpaul16&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
-<p align="center">
-    <a href="https://github.com/judahpaul16">
-        <img src="https://github-stats-alpha.vercel.app/api?username=judahpaul16&cc=2d333b&tc=37BCF6&ic=fff&bc=0000" alt="Judah Paul's GitHub Stats">
-    </a>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judahpaul16&theme=transparent&hide=dart,jupyter%20notebook,cmake,css,c%2b%2b&border_color=2d333b&layout=donut" alt="Top Languages">
-</p>
+</a>  -->
+
+<table>
+    <td colspan="2" align="center">
+        <a href="https://github.com/judahpaul16">
+            <img src="/github-metrics.svg" alt="Judah Paul's GitHub Stats"  width="900" height="1">
+        </a>
+    </td>
+    <td colspan="2" align="center">
+      <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img src="https://github.com/judahpaul16/judahpaul16/blob/main/metrics.plugin.languages.indepth.svg" alt=""></img></details>
+      <details open><summary>Recently used (analyze recent activity events)</summary><img src="https://github.com/judahpaul16/judahpaul16/blob/main/metrics.plugin.languages.recent.svg" alt=""></img></details>
+      <details><summary>Default algorithm</summary><img src="https://github.com/judahpaul16/judahpaul16/blob/main/metrics.plugin.languages.svg" alt=""></img></details>
+      <details><summary>Default algorithm (with details)</summary><img src="https://github.com/judahpaul16/judahpaul16/blob/main/metrics.plugin.languages.details.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+</table>
 
 </p>
 
