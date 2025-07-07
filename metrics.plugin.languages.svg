@@ -21,18 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.16237765176515" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="235.16237765176515" y="0" width="129.94120438340047" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="365.10358203516563" y="0" width="47.70492154015824" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="412.80850357532387" y="0" width="47.191496424676096" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.8164105660714" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="229.8164105660714" y="0" width="84.37180405337047" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="314.18821461944185" y="0" width="83.46375092507694" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="397.6519655445188" y="0" width="62.34803445548119" height="8" fill="#ff3e00"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Jupyter Notebook
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
@@ -50,6 +44,12 @@
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ff3e00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Svelte
                     </div>
                 </div>
             </section>
