@@ -29,9 +29,8 @@
 
 <table>
     <td colspan="2" align="center">
-        <a href="https://github.com/judahpaul16">
-            <img src="/github-metrics.svg" alt="Judah Paul's GitHub Stats"  width="900" height="1">
-        </a>
+        <details open><summary>Summary</summary><img src="https://github.com/judahpaul16/judahpaul16/blob/main/github-metrics.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
     </td>
     <td colspan="2" align="center">
       <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img src="https://github.com/judahpaul16/judahpaul16/blob/main/metrics.plugin.languages.indepth.svg" alt=""></img></details>
