@@ -45,7 +45,7 @@ jobs:
           plugin_languages_limit: 4
 
       - name: Recently used
-        uses: lowlighter/metrics@latest
+        uses: judahpaul16/metrics@master
         with:
           filename: metrics.plugin.languages.recent.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -57,10 +57,6 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
-          plugin_languages_indepth_custom: ""
-          plugin_languages_recent_days: 7
-          plugin_languages_recent_load: 100
-        continue-on-error: true
   
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
