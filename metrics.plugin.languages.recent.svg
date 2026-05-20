@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 470kb of code in 272 edited files across 90 commits over last 23 days</small>
+                <small>estimation from 584kb of code in 363 edited files across 149 commits over last 25 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.26597706281683" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="347.26597706281683" y="0" width="90.38234151100967" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="437.64831857382654" y="0" width="12.312157368590777" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.9604759424173" y="0" width="10.03952405758275" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.8937830864926" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="305.8937830864926" y="0" width="88.58810460307065" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="394.4818876895632" y="0" width="47.99923288186743" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="442.4811205714306" y="0" width="17.51887942856936" height="8" fill="#844FBA"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,20 +37,20 @@
                                 Python
                             </div>
                             <small>
-                                <div>182 kB</div>
-                                <div>75.49%</div>
+                                <div>183 kB</div>
+                                <div>66.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ff3e00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TSX
+                                Svelte
                             </div>
                             <small>
-                                <div>6.47 kB</div>
-                                <div>2.68%</div>
+                                <div>28.8 kB</div>
+                                <div>10.43%</div>
                             </small>
                         </div>
                     </section>
@@ -63,20 +63,20 @@
                                 Elixir
                             </div>
                             <small>
-                                <div>47.5 kB</div>
-                                <div>19.65%</div>
+                                <div>53.2 kB</div>
+                                <div>19.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                HCL
                             </div>
                             <small>
-                                <div>5.28 kB</div>
-                                <div>2.18%</div>
+                                <div>10.5 kB</div>
+                                <div>3.81%</div>
                             </small>
                         </div>
                     </section>
