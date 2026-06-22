@@ -17,6 +17,9 @@
 <a href="https://hub.docker.com/u/judahpaul">
     <img src="https://img.shields.io/badge/DockerHub-judahpaul-blue?style=flat-square&logo=docker&logoColor=white">
 </a>
+<a href="https://git.sotekzone.com/judah">
+    <img src="https://img.shields.io/badge/GitLab-judah-orange?style=flat-square&logo=gitlab&logoColor=white">
+</a>
 
 <br/> 
 
@@ -39,10 +42,6 @@
 </p>
 
 * 📖 BS in Computer Science from [Georgia State University](https://csds.gsu.edu/). 
-
-* 🚀 Currently building apps and pursuing enlightenment through philosophy.
-  
-* <img src='hi.gif' alt='Hi' width="20"/>&nbsp; Please consider supporting my uncle's stem cell therapy by donating to his [GoFundMe](https://gofund.me/11f7b7fd) campaign.
 
 
 <table align="center">
